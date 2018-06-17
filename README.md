@@ -37,7 +37,7 @@ experiments with p5js on pattern and generative design
 
 <img src="images/10_print_1.png" width="200" height="200" />
 
-[10 print 1](https://b2renger.github.io/p5js_patterns/10_print_1/)
+[10 print 1](https://b2renger.github.io/p5js_patterns/10_print_1/index.html)
 
 <img src="images/10_print_2.png" width="200" height="200" />
 
@@ -97,6 +97,5 @@ experiments with p5js on pattern and generative design
 [palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 <br></br>
 <br></br>
-
 
 
