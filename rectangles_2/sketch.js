@@ -23,8 +23,9 @@ function draw() {
     fill(255);
     for (var i = siz; i < windowWidth - siz; i += siz) {
         for (var j = siz; j < windowHeight - siz; j += siz) {
-            var y = noise(seed , i / siz * 4, j * siz / 4) * siz;
-            rect(i, j, siz, y, round);
+            var y = noise(seed , i / 123, j /431) * siz;
+            var round = noise(seed/2, i/50 , j/100 )*(siz/4);
+            rect(i, j, y, y, round);
         }
     }
 }
@@ -32,7 +33,8 @@ function draw() {
 function mouseReleased() {
 
     seed = random(1000);
-    round = random(siz / 4);
+    siz = int (random(25, 75))
+    //round = random(siz / 4);
     step = random (100)/1000;
 }
 
