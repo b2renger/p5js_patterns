@@ -1,6 +1,6 @@
-var siz = 10;
 var seed = 160;
-var round = 1;
+var siz = 35;
+
 
 function setup() {
 
@@ -8,10 +8,7 @@ function setup() {
 
     background(0);
 
-    rectMode(CENTER);
-
     seed = random(1000);
-    round = random(siz / 2);
 
 }
 
@@ -19,18 +16,21 @@ function setup() {
 function draw() {
 
     background(0);
-    randomSeed(seed)
-    fill(255);
+    randomSeed(seed);
+    strokeWeight(4)
+    stroke(255)
+
     for (var i = siz; i < windowWidth - siz; i += siz) {
         for (var j = siz; j < windowHeight - siz; j += siz) {
-            var y = noise(seed, i / siz * 4, j * siz / 4) * siz;
-            var rd = random(100);
-
+            push()
+            var rd = random(100)
             if (rd < 50) {
-                rect(i, j, y, y);
+                line(i, j, i + siz, j + siz);
             } else {
-                ellipse(i, j, y, y);
+                line(i, j + siz, i + siz, j);
             }
+
+            pop()
         }
     }
 }
@@ -38,7 +38,6 @@ function draw() {
 function mouseReleased() {
 
     seed = random(1000);
-    siz = int(random(10, 25));
-    round = random(siz / 2);
+    siz = int(random(10, 50))
 
 }

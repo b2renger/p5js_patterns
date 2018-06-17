@@ -25,8 +25,8 @@ function draw() {
     fill(255);
     phase =0
 
-    for (var i = siz; i < windowHeight - siz; i += siz) {
-        for (var j = siz; j < windowWidth - siz; j += siz) {
+    for (var i = siz; i < windowHeight - siz*2; i += siz) {
+        for (var j = siz; j < windowWidth - siz*2; j += siz) {
 
             phase += 1
             var y = 0

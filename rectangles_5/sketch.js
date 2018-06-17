@@ -27,8 +27,8 @@ function draw() {
     fill(255);
 
 
-    for (var i = siz; i < windowWidth - siz; i += siz) {
-        for (var j = siz; j < windowHeight - siz; j += siz) {
+    for (var i = siz; i < windowWidth - siz * 2; i += siz) {
+        for (var j = siz; j < windowHeight - siz * 2; j += siz) {
             var y = 0;
 
             var pulse = int(random(15))
