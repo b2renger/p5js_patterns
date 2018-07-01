@@ -35,6 +35,17 @@ experiments with p5js on pattern and generative design
 <br></br>
 <br></br>
 
+
+<img src="images/circles_1.png" width="200" height="200" />
+
+[circles 1](https://b2renger.github.io/p5js_patterns/circles_1/)
+
+<img src="images/circles_2.png" width="200" height="200" />
+
+[circles 2](https://b2renger.github.io/p5js_patterns/circles_2/)
+<br></br>
+<br></br>
+
 <img src="images/10_print_1.png" width="200" height="200" />
 
 [10 print 1](https://b2renger.github.io/p5js_patterns/10_print_1/index.html)
@@ -88,6 +99,29 @@ experiments with p5js on pattern and generative design
 <br></br>
 <br></br>
 
+<img src="images/pg_1.png" width="200" height="200" />
+
+[offscreen graphics 1](https://b2renger.github.io/p5js_patterns/pg_1/)
+
+<img src="images/pg_2.png" width="200" height="200" />
+
+[offscreen graphics 2](https://b2renger.github.io/p5js_patterns/pg_2/)
+
+<img src="images/pg_3.png" width="200" height="200" />
+
+[offscreen graphics 3](https://b2renger.github.io/p5js_patterns/pg_3/)
+
+<img src="images/pg_4.png" width="200" height="200" />
+
+[offscreen graphics 4](https://b2renger.github.io/p5js_patterns/pg_4/)
+
+<img src="images/pg_5.png" width="200" height="200" />
+
+[offscreen graphics 5](https://b2renger.github.io/p5js_patterns/pg_5/)
+<br></br>
+<br></br>
+
+
 <img src="images/palmleaf_wireframe.png" width="200" height="200" />
 
 [palm leaf wireframe](https://b2renger.github.io/p5js_patterns/palm_leaf_wireframe/)
@@ -97,5 +131,15 @@ experiments with p5js on pattern and generative design
 [palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 <br></br>
 <br></br>
+
+
+TODO 
+ellipse grid / with mouse / with overlap / with offset
+modulos de 2
+patterns de truchet
+chaldni
+patterns islamiques ?
+//https://p5js.org/examples/simulate-penrose-tiles.html
+//https://p5js.org/examples/structure-recursion.html
 
 
