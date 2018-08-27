@@ -1,0 +1,23 @@
+
+TODO 
+animated noise texture + blur ?
+comment in english
+hierachiser et mettre des niveaux de difficulté
+
+ellipse grid / with mouse distance map to size / with overlap / with offset
+modulos de 2
+
+
+rework some pg examples select and remove some add some color, faire les arcs avec les arcs de plus en plus petits , avec dégradé  de couleurs avec un noise
+//https://p5js.org/examples/simulate-penrose-tiles.html
+sacha style : https://twitter.com/sasj_nl (geometric shapes)
+
+
+
+faire un repo animation séparé
+exemples animés avec rectangles déjà crées
+noises
+cercles qui rétrécissent et forment de plantes
+pavage avec triangles
+dla
+interpolation de points dans l'espace

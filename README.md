@@ -118,6 +118,14 @@ experiments with p5js on pattern and generative design
 <img src="images/pg_5.png" width="200" height="200" />
 
 [offscreen graphics 5](https://b2renger.github.io/p5js_patterns/pg_5/)
+
+<img src="images/pg_animated_texture.png" width="200" height="200" />
+
+[animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
+
+<img src="images/pg_animated_texture_looping.png" width="200" height="200" />
+
+[animated texture with noise looping](https://b2renger.github.io/p5js_patterns/pg_animated_texture_looping/)
 <br></br>
 <br></br>
 
@@ -131,15 +139,5 @@ experiments with p5js on pattern and generative design
 [palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 <br></br>
 <br></br>
-
-
-TODO 
-ellipse grid / with mouse / with overlap / with offset
-modulos de 2
-patterns de truchet
-chaldni
-patterns islamiques ?
-//https://p5js.org/examples/simulate-penrose-tiles.html
-//https://p5js.org/examples/structure-recursion.html
 
 
