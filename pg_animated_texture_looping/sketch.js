@@ -51,7 +51,7 @@ function draw() {
             var xpos = map(x, 0, pg.width, 0, TWO_PI)
             var ypos = map(y, 0, pg.height, 0, TWO_PI)
             var n = noise((cos(xpos) + 1) * 0.5 + noiseX, (sin(ypos) + 1) * 0.5 + noiseY, frameCount * 0.0004);
-            if (int(n * 400) % 17 == 0) {
+            if (int(n * 200) % 11 == 0) {
                 pg.stroke(255, 0, 0)
                 pg.point(x, y);
             }
