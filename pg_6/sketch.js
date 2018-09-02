@@ -9,23 +9,32 @@ function setup() {
     background(0);
     pixelDensity(1)
     seed = random(5000)
-
+    //colorMode(HSB)
     pg = createGraphics(siz,siz)
-    pg.background(0)
-    pg.fill(255)
-    pg.stroke(255)
-    //pg.triangle(0, 0, pg.width/2, 0, 0, pg.height/2)
-    pg.triangle( pg.width/2,0, pg.width, pg.height/2, 0, pg.height/2)
+   // pg.colorMode(HSB)
 
-    imageMode(CENTER)
+
+    pg.fill(0)
+    pg.noStroke(0)
+    pg.triangle(0,pg.height*1/3,  pg.width*2/3, pg.height,0,pg.height )
+    pg.stroke(0)
+    pg.strokeWeight(4)
+    pg.line(0,0,pg.width,pg.height )
+    pg.noStroke()
+    pg.ellipse(pg.width, 0, pg.width, pg.width)
+
+
+
+
+    imageMode(CENTER,CENTER)
 
 }
 
 
 function draw() {
     randomSeed(seed)
-    background(0);
-    stroke(255);
+    background(255);
+    noStroke();
     //fill(0);
     noFill();
 
@@ -33,9 +42,9 @@ function draw() {
         for (var j = 0; j <= height; j += siz) {
             push()
             translate(i,j)
-            var angle = TWO_PI * (int(random(0,4))) / 4
+            var angle = TWO_PI * (int(random(1,5))) / 4
             rotate(angle)
-            image(pg,0,0,siz,siz)
+            image(pg,0,0)
 
             pop()
         }

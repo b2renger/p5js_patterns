@@ -119,6 +119,18 @@ experiments with p5js on pattern and generative design
 
 [offscreen graphics 5](https://b2renger.github.io/p5js_patterns/pg_5/)
 
+<img src="images/pg_6.png" width="200" height="200" />
+
+[offscreen graphics 6](https://b2renger.github.io/p5js_patterns/pg_6/)
+
+<img src="images/pg_7.png" width="200" height="200" />
+
+[offscreen graphics 7](https://b2renger.github.io/p5js_patterns/pg_7/)
+
+<img src="images/pg_8.png" width="200" height="200" />
+
+[offscreen graphics 8](https://b2renger.github.io/p5js_patterns/pg_8/)
+
 <img src="images/pg_animated_texture.png" width="200" height="200" />
 
 [animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
