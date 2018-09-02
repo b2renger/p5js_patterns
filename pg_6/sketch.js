@@ -16,11 +16,8 @@ function setup() {
 
     pg.fill(0)
     pg.noStroke(0)
-    pg.triangle(0,pg.height*1/3,  pg.width*2/3, pg.height,0,pg.height )
-    pg.stroke(0)
-    pg.strokeWeight(4)
-    pg.line(0,0,pg.width,pg.height )
-    pg.noStroke()
+    pg.triangle(0,pg.height*1/2,  pg.width*1/2, pg.height,0,pg.height )
+
     pg.ellipse(pg.width, 0, pg.width, pg.width)
 
 
