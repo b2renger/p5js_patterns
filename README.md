@@ -79,6 +79,15 @@ experiments with p5js on pattern and generative design
 <br></br>
 <br></br>
 
+<img src="images/geometric_shape_pattern.png" width="200" height="200" />
+
+[Geometric Shape Pattern](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern/)
+inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work 
+
+
+<br></br>
+<br></br>
+
 <img src="images/superpositions_1.png" width="200" height="200" />
 
 [supperpositions 1](https://b2renger.github.io/p5js_patterns/supperpositions_1/)
