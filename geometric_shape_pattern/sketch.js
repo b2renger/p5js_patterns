@@ -1,12 +1,6 @@
-// draw centered line
-// draw left top line
-
-// draw centered triangle
-// draw lef top triangle
-
-// add a probability factor ?
 
 var seed
+
 
 function setup() {
 
