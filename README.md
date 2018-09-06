@@ -84,6 +84,10 @@ experiments with p5js on pattern and generative design
 [Geometric Shape Pattern](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern/)
 inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work 
 
+<img src="images/geometric_shape_pattern2.png" width="200" height="200" />
+
+[Geometric Shape Pattern 2](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_2/)
+
 
 <br></br>
 <br></br>
