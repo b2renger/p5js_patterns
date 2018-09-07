@@ -88,6 +88,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [Geometric Shape Pattern 2](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_2/)
 
+<img src="images/geometric_shape_pattern3.png" width="200" height="200" />
+
+[Geometric Shape Pattern 3](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_3/)
+
 
 <br></br>
 <br></br>
