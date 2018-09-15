@@ -50,6 +50,10 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/circles_2.png" width="200" height="200" />
 
 [circles 2](https://b2renger.github.io/p5js_patterns/circles_2/)
+
+<img src="images/circles_flowers.png" width="200" height="200" />
+
+[circles flowers](https://b2renger.github.io/p5js_patterns/circles_flowers/)
 <br></br>
 <br></br>
 
