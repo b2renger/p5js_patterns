@@ -155,6 +155,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [offscreen graphics 8](https://b2renger.github.io/p5js_patterns/pg_8/)
 
+<img src="images/pg_gradient.png" width="200" height="200" />
+
+[offscreen graphics with gradients](https://b2renger.github.io/p5js_patterns/pg_gradient/)
+
 <img src="images/pg_animated_texture.png" width="200" height="200" />
 
 [animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
