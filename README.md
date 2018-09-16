@@ -170,6 +170,14 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/chaldni_patterns.png" width="200" height="200" />
 
 [chaldni patterns](https://b2renger.github.io/p5js_patterns/chaldni_patterns/)
+
+<img src="images/chrysanthemum.png" width="200" height="200" />
+
+[chrysanthemum webgl](https://b2renger.github.io/p5js_patterns/chrysanthemum/)
+
+<img src="images/butterfly.png" width="200" height="200" />
+
+[butterfly](https://b2renger.github.io/p5js_patterns/butterfly/)
 <br></br>
 <br></br>
 
