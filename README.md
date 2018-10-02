@@ -53,6 +53,16 @@ experiments with p5js on pattern, generative and grid design
 <br></br>
 <br></br>
 
+<img src="images/fun_flowers.png" width="200" height="200" />
+
+[fun flowers](https://b2renger.github.io/p5js_patterns/fun_flowers/)
+
+<img src="images/fun_flowers_overlapping.png" width="200" height="200" />
+
+[fun flowers overlapping](https://b2renger.github.io/p5js_patterns/fun_flowers_overlapping/)
+<br></br>
+<br></br>
+
 <img src="images/10_print_1.png" width="200" height="200" />
 
 [10 print 1](https://b2renger.github.io/p5js_patterns/10_print_1/index.html)
