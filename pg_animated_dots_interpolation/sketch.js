@@ -10,6 +10,9 @@ var dots = [];
 var num = 81
 var circleSize = 1
 
+var seed
+var prevIndex = 10
+var index = 10
 
 
 function setup() {
@@ -18,6 +21,8 @@ function setup() {
 
     background(255);
     pixelDensity(1)
+
+    seed = random(9999)
 
 
     pg = createGraphics(siz, siz)
@@ -31,12 +36,15 @@ function setup() {
     for (var i = 0; i < 81; i++) {
         dots[i] = new Dot();
     }
-    newConfiguration(8)
+
+    newConfiguration(index)
 
 }
 
 
 function draw() {
+
+    randomSeed(seed)
     background(255)
     pg.background(255);
 
@@ -47,7 +55,12 @@ function draw() {
 
     for (var i = 0; i < xnum; i += 1) {
         for (var j = 0; j < ynum; j += 1) {
-            image(pg, xoffset + siz / 2 + i * siz, yoffset + siz / 2 + j * siz);
+            push()
+            var angle = int(random(5)) * PI / 2
+            translate(xoffset + siz / 2 + i * siz, yoffset + siz / 2 + j * siz);
+            rotate(angle)
+            image(pg, 0, 0);
+            pop()
         }
     }
 
@@ -55,9 +68,16 @@ function draw() {
 
 function mousePressed() {
     //siz = random(25,150)
-    var index = int(random(9));
-    println(index);
-    newConfiguration(index);
+    seed = random(9999)
+
+
+    while (index == prevIndex) {
+        index = int(random(9));
+        println(index);
+        newConfiguration(index);
+    }
+    prevIndex = index
+
 }
 
 
@@ -176,13 +196,38 @@ function newConfiguration(id) {
             }
             break;
 
-        case 8: // larme
+        case 8: // larme : http://www.mathcurve.com/courbes2d/larme/larme.shtml
             for (var i = 0; i < dots.length; i++) {
                 var t = (i * TWO_PI) / dots.length;
                 var xpos = siz / 2 + cos(t) * siz * 0.4
-                var ypos = siz / 2 + sin(t) * pow(sin(t/2), 2) * siz * 0.4
+                var ypos = siz / 2 + sin(t) * pow(sin(t / 2), 1) * siz * 0.4
                 dots[i].updateTarget(xpos, ypos);
             }
             break;
+
+        case 9: // kappa : http://www.mathcurve.com/courbes2d/kappa/kappa.shtml
+            for (var i = 0; i < dots.length; i++) {
+                var angle = TWO_PI * i / dots.length;
+                var radius = tan(angle) * siz * 0.5
+
+                var xpos = siz / 2 + radius * cos(angle);
+                var ypos = siz / 2 + radius * sin(angle);
+                dots[i].updateTarget(xpos, ypos);
+            }
+            break;
+
+             case 10: // cubique d'agnesi : http://www.mathcurve.com/courbes2d/agnesi/agnesi.shtml
+            for (var i = 0; i < dots.length; i++) {
+                var angle = map(i, 0 , dots.length , -PI/2, PI/2)
+                var radius =  siz * 0.5
+
+                var xpos = siz / 2 + radius * tan(angle);
+                var ypos = siz / 2 + radius * pow(cos(angle),9);
+                dots[i].updateTarget(xpos, ypos);
+            }
+            break;
+
+
+
     }
 }
