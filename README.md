@@ -169,6 +169,14 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [offscreen graphics with gradients](https://b2renger.github.io/p5js_patterns/pg_gradient/)
 
+<img src="images/pg_animated_dots_interpolation.png" width="200" height="200" />
+
+[animated dots interpolation](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation/)
+
+<img src="images/pg_animated_dots_interpolation_trace.png" width="200" height="200" />
+
+[animated dots interpolation with trace](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation_trace/)
+
 <img src="images/pg_animated_texture.png" width="200" height="200" />
 
 [animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
@@ -179,6 +187,9 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 <img src="images/chaldni_patterns.png" width="200" height="200" />
 
+<br></br>
+<br></br>
+
 [chaldni patterns](https://b2renger.github.io/p5js_patterns/chaldni_patterns/)
 
 <img src="images/chrysanthemum.png" width="200" height="200" />
@@ -188,6 +199,8 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/butterfly.png" width="200" height="200" />
 
 [butterfly](https://b2renger.github.io/p5js_patterns/butterfly/)
+
+
 <br></br>
 <br></br>
 

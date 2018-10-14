@@ -1,6 +1,6 @@
 // ajouter différents type de easings
 
-var siz = 50;
+var siz = 200;
 var pg
 
 var xnum
@@ -10,8 +10,8 @@ var yoffset
 
 var dots = [];
 var angles = [];
-var num = 256
-var circleSize = 1
+var num = 512
+var circleSize = 0.5
 var animSpeed = 0.05
 
 var seed
@@ -57,15 +57,12 @@ function setup() {
 function draw() {
 
     randomSeed(seed)
-    background(255)
-    pg.background(255);
+    //background(255)
+    //pg.background(255);
 
     for (var i = 0; i < num; i++) {
         dots[i].move();
         dots[i].draw(pg);
-    }
-    for (var i = 0; i < xnum * ynum; i++) {
-        angles[i].update();
     }
 
     for (var j = 0; j < ynum; j += 1) {
@@ -73,7 +70,15 @@ function draw() {
             push()
             var index = i + j * (xnum);
             translate(xoffset + siz / 2 + i * siz, yoffset + siz / 2 + j * siz);
-            rotate(angles[index].angle)
+
+            if (doRotate) {
+                var angle = int(random(5)) * PI / 2
+                rotate(angle)
+            } else {
+                rotate(0)
+            }
+
+
             image(pg, 0, 0);
             pop()
         }
@@ -84,7 +89,7 @@ function draw() {
 function mousePressed() {
     //siz = random(25,150)
     seed = random(9999)
-    //pg.background(255)
+    pg.background(255)
     if (random(1) < 0.75) {
         doRotate = true
     } else {
@@ -97,13 +102,12 @@ function mousePressed() {
     }
 
     if (doRotate) {
-        for (var i = 0; i < xnum*ynum; i++) {
+        for (var i = 0; i < xnum * ynum; i++) {
             var angle = int(random(5)) * PI / 2
             angles[i].updateTarget(angle)
         }
-    }
-    else{
-        for (var i = 0; i < xnum*ynum; i++) {
+    } else {
+        for (var i = 0; i < xnum * ynum; i++) {
             angles[i].updateTarget(0)
         }
     }
@@ -113,8 +117,10 @@ function mousePressed() {
 }
 
 function keyPressed() {
+    background(255)
+    pg.background(255)
     seed = random(9999)
-    siz = random(25, 150)
+    siz = random(100, 350)
     pg = createGraphics(siz, siz)
     xnum = int((width / siz))
     ynum = int((height / siz))
@@ -138,6 +144,7 @@ class Orientation {
 
     constructor() {
 
+
         this.angle = 0;
         this.angleTarget = 0;
     }
@@ -149,7 +156,7 @@ class Orientation {
 
     updateTarget(newAngle) {
         this.angleTarget = newAngle;
-        this.t =0
+
     }
 }
 
@@ -165,8 +172,8 @@ class Dot {
 
     move() {
 
-        this.xpos += min((this.xtarget - this.xpos) *animSpeed , 10);
-        this.ypos += min((this.ytarget - this.ypos) *animSpeed , 10);
+        this.xpos += min((this.xtarget - this.xpos) * animSpeed, 10);
+        this.ypos += min((this.ytarget - this.ypos) * animSpeed, 10);
     }
 
     updateTarget(newX, newY) {
@@ -176,10 +183,12 @@ class Dot {
     }
 
 
-    draw(pg) {
+    draw(pg, angle) {
+        pg.push()
         pg.noStroke();
         pg.fill(0);
         pg.ellipse(this.xpos, this.ypos, circleSize, circleSize);
+        pg.pop()
     }
 }
 
