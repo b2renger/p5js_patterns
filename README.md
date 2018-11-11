@@ -185,12 +185,14 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [animated texture with noise looping](https://b2renger.github.io/p5js_patterns/pg_animated_texture_looping/)
 
-<img src="images/chaldni_patterns.png" width="200" height="200" />
+
 
 <br></br>
 <br></br>
 
-[chaldni patterns](https://b2renger.github.io/p5js_patterns/chaldni_patterns/)
+<img src="images/chladni_patterns.png" width="200" height="200" />
+
+[chladni patterns](https://b2renger.github.io/p5js_patterns/chladni_patterns/)
 
 <img src="images/chrysanthemum.png" width="200" height="200" />
 
