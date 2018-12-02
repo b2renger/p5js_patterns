@@ -1,4 +1,4 @@
-var siz = 250;
+var siz = 500;
 var pg
 var noiseX
 var noiseY
