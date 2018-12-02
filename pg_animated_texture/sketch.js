@@ -14,11 +14,11 @@ function setup() {
     seed = random(5000)
 
 
-  noiseX = random(10000);
-  noiseY = random(10000);
+    noiseX = random(10000);
+    noiseY = random(10000);
 
 
-    pg = createGraphics(siz,siz)
+    pg = createGraphics(siz, siz)
 
     pg.strokeCap(ROUND)
 
@@ -40,7 +40,7 @@ function draw() {
             imageMode(CORNER)
             translate(i, j)
 
-            image(pg,0,0)
+            image(pg, 0, 0)
 
             pop()
         }
@@ -48,15 +48,15 @@ function draw() {
     }
     pg.background(0)
 
-    for (var x = 0; x < pg.width; x+=1) {
-    for (var y = 0; y < pg.height; y+=1) {
-      var n = noise(x * 0.0023 + noiseX, y * 0.0023 + noiseY, frameCount * 0.0004);
-      if (int(n * 400) % 17 == 0) {
-        pg.stroke(255,0,0)
-        pg.point(x, y);
-      }
+    for (var x = 0; x < pg.width; x += 1) {
+        for (var y = 0; y < pg.height; y += 1) {
+            var n = noise(x * 0.0023 + noiseX, y * 0.0023 + noiseY, frameCount * 0.0004);
+            if (int(n * 400) % 17 == 0) {
+                pg.stroke(255, 0, 0)
+                pg.point(x, y);
+            }
+        }
     }
-  }
 
 
 
@@ -65,8 +65,8 @@ function draw() {
 function mouseReleased() {
     seed = random(50000)
     siz = random(100, 200)
-      noiseX = random(10000);
-  noiseY = random(10000);
+    noiseX = random(10000);
+    noiseY = random(10000);
 
 
 
