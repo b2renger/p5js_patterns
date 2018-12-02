@@ -177,6 +177,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [animated dots interpolation with trace](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation_trace/)
 
+<img src="images/pg_animated_noise.png" width="200" height="200" />
+
+[animated noise lines](https://b2renger.github.io/p5js_patterns/pg_animated_noise/)
+
 <img src="images/pg_animated_texture.png" width="200" height="200" />
 
 [animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
