@@ -120,6 +120,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/superpositions_2.png" width="200" height="200" />
 
 [supperpositions 2](https://b2renger.github.io/p5js_patterns/supperpositions_2/)
+
+<img src="images/superpositions_3.png" width="200" height="200" />
+
+[supperpositions 3](https://b2renger.github.io/p5js_patterns/supperpositions_3)
 <br></br>
 <br></br>
 
