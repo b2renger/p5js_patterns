@@ -217,7 +217,7 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 <img src="images/rafters.png" width="200" height="200" />
 
-[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/)
+[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/index.html)
 
 
 <br></br>
