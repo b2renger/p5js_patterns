@@ -7,6 +7,12 @@ experiments with p5js on pattern, generative and grid design
 
 [triangles 1](https://b2renger.github.io/p5js_patterns/triangles_1/)
 
+<br></br>
+
+<img src="images/illusion_01.png" width="200" height="200" />
+
+[optical illusion 1](https://b2renger.github.io/p5js_patterns/illusion_01/)
+
 
 <br></br>
 
