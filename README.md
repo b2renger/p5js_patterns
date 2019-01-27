@@ -245,3 +245,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <br></br>
 
 
+<img src="images/webgl_3D.png" width="200" height="200" />
+
+[grid of recursive cubes](https://b2renger.github.io/p5js_patterns/webgl_3D/)
+<br></br>
+<br></br>
+
+
