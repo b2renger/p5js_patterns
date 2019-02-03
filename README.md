@@ -28,9 +28,13 @@ experiments with p5js on pattern, generative and grid design
 
 [rectangles 3](https://b2renger.github.io/p5js_patterns/rectangles_3/)
 
-<img src="images/rectangles5.png" width="200" height="200" />
+<img src="images/rectangles4.png" width="200" height="200" />
 
 [rectangles 4](https://b2renger.github.io/p5js_patterns/rectangles_4/)
+
+<img src="images/rectangles_5.png" width="200" height="200" />
+
+[rectangles 5](https://b2renger.github.io/p5js_patterns/rectangles_5/)
 
 <img src="images/rectangles6.png" width="200" height="200" />
 
