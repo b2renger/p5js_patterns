@@ -3,6 +3,11 @@ experiments with p5js on pattern, generative and grid design
 <br></br>
 <br></br>
 
+<img src="images/artdeco_1.png" width="200" height="200" />
+
+[Art deco 1](https://b2renger.github.io/p5js_patterns/art-deco_1/)
+
+
 <img src="images/triangles_1.png" width="200" height="200" />
 
 [triangles 1](https://b2renger.github.io/p5js_patterns/triangles_1/)
