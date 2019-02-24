@@ -3,6 +3,8 @@ experiments with p5js on pattern, generative and grid design
 <br></br>
 <br></br>
 
+## art-deco inspired patterns
+
 <img src="images/artdeco_1.png" width="200" height="200" />
 
 [Art deco 1 ](https://b2renger.github.io/p5js_patterns/art-deco_1/)
@@ -23,23 +25,9 @@ experiments with p5js on pattern, generative and grid design
 
 [Art deco - palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 
-
-<img src="images/triangles_1.png" width="200" height="200" />
-
-[triangles 1](https://b2renger.github.io/p5js_patterns/triangles_1/)
-
 <br></br>
 
-<img src="images/illusion_01.png" width="200" height="200" />
-
-[optical illusion 1](https://b2renger.github.io/p5js_patterns/illusion_01/)
-
-
-<br></br>
-
-<img src="images/rectangles1.png" width="200" height="200" />
-
-[rectangles 1](https://b2renger.github.io/p5js_patterns/rectangles_1/)
+## Animated grids
 
 <img src="images/rectangles2.png" width="200" height="200" />
 
@@ -53,13 +41,45 @@ experiments with p5js on pattern, generative and grid design
 
 [rectangles 4](https://b2renger.github.io/p5js_patterns/rectangles_4/)
 
+<img src="images/triangles_1.png" width="200" height="200" />
+
+[triangles 1](https://b2renger.github.io/p5js_patterns/triangles_1/)
+
+<img src="images/pg_animated_dots_interpolation.png" width="200" height="200" />
+
+[animated dots interpolation](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation/)
+
+<img src="images/pg_animated_dots_interpolation_trace.png" width="200" height="200" />
+
+[animated dots interpolation with trace](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation_trace/)
+
+<img src="images/pg_animated_noise.png" width="200" height="200" />
+
+[animated noise lines](https://b2renger.github.io/p5js_patterns/pg_animated_noise/)
+
+<img src="images/pg_animated_texture.png" width="200" height="200" />
+
+[animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
+
+<img src="images/pg_animated_texture_looping.png" width="200" height="200" />
+
+[animated texture with noise looping](https://b2renger.github.io/p5js_patterns/pg_animated_texture_looping/)
+
+<img src="images/gradient_animated.png" width="200" height="200" />
+
+[animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
+
+<br></br>
+
+## Grid things
+
+<img src="images/rectangles1.png" width="200" height="200" />
+
+[rectangles 1](https://b2renger.github.io/p5js_patterns/rectangles_1/)
+
 <img src="images/rectangles_5.png" width="200" height="200" />
 
 [rectangles 5](https://b2renger.github.io/p5js_patterns/rectangles_5/)
-
-
-<br></br>
-<br></br>
 
 <img src="images/rectangles_lines_1.png" width="200" height="200" />
 
@@ -68,9 +88,6 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/rectangles_lines_2.png" width="200" height="200" />
 
 [rectangle lines 2](https://b2renger.github.io/p5js_patterns/rectangles_lines_2/)
-<br></br>
-<br></br>
-
 
 <img src="images/circles_1.png" width="200" height="200" />
 
@@ -83,8 +100,6 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/circles_flowers.png" width="200" height="200" />
 
 [circles flowers](https://b2renger.github.io/p5js_patterns/circles_flowers/)
-<br></br>
-<br></br>
 
 <img src="images/fun_flowers.png" width="200" height="200" />
 
@@ -93,8 +108,23 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/fun_flowers_overlapping.png" width="200" height="200" />
 
 [fun flowers overlapping](https://b2renger.github.io/p5js_patterns/fun_flowers_overlapping/)
+
+<img src="images/disarray_1.png" width="200" height="200" />
+
+### Cubic Disarray inspired - (orignal work by Georg Nees)
+
+[disarray 1](https://b2renger.github.io/p5js_patterns/disarray_1/)
+
+<img src="images/disarray_2.png" width="200" height="200" />
+
+[disarray 2](https://b2renger.github.io/p5js_patterns/disarray_2/)
+
+<img src="images/disarray_3.png" width="200" height="200" />
+
+[disarray 3](https://b2renger.github.io/p5js_patterns/disarray_3/)
 <br></br>
-<br></br>
+
+### 10 print inspired - [10 print book](https://10print.org/)
 
 <img src="images/10_print_1.png" width="200" height="200" />
 
@@ -112,38 +142,10 @@ experiments with p5js on pattern, generative and grid design
 
 [10 print 4](https://b2renger.github.io/p5js_patterns/10_print_4/)
 <br></br>
-<br></br>
-
-
-<img src="images/disarray_1.png" width="200" height="200" />
-
-[disarray 1](https://b2renger.github.io/p5js_patterns/disarray_1/)
-
-<img src="images/disarray_2.png" width="200" height="200" />
-
-[disarray 2](https://b2renger.github.io/p5js_patterns/disarray_2/)
-
-<img src="images/disarray_3.png" width="200" height="200" />
-
-[disarray 3](https://b2renger.github.io/p5js_patterns/disarray_3/)
-<br></br>
-<br></br>
-
-<img src="images/geometric_shape_pattern.png" width="200" height="200" />
-
-[Geometric Shape Pattern](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern/)
-inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work 
-
-<img src="images/geometric_shape_pattern2.png" width="200" height="200" />
-
-[Geometric Shape Pattern 2](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_2/)
-
-<img src="images/geometric_shape_pattern3.png" width="200" height="200" />
-
-[Geometric Shape Pattern 3](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_3/)
-
 
 <br></br>
+
+## Supperpositions
 <br></br>
 
 <img src="images/superpositions_1.png" width="200" height="200" />
@@ -180,10 +182,25 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 
 <br></br>
+
+## Superposing grids
+
+<img src="images/geometric_shape_pattern.png" width="200" height="200" />
+
+[Geometric Shape Pattern](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern/)
+inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work 
+
+<img src="images/geometric_shape_pattern2.png" width="200" height="200" />
+
+[Geometric Shape Pattern 2](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_2/)
+
+<img src="images/geometric_shape_pattern3.png" width="200" height="200" />
+
+[Geometric Shape Pattern 3](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_3/)
 <br></br>
 
-<br></br>
-<br></br>
+
+## Truchet inspired
 
 <img src="images/pg_1.png" width="200" height="200" />
 
@@ -221,33 +238,13 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [offscreen graphics with gradients](https://b2renger.github.io/p5js_patterns/pg_gradient/)
 
-<img src="images/pg_animated_dots_interpolation.png" width="200" height="200" />
-
-[animated dots interpolation](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation/)
-
-<img src="images/pg_animated_dots_interpolation_trace.png" width="200" height="200" />
-
-[animated dots interpolation with trace](https://b2renger.github.io/p5js_patterns/pg_animated_dots_interpolation_trace/)
-
-<img src="images/pg_animated_noise.png" width="200" height="200" />
-
-[animated noise lines](https://b2renger.github.io/p5js_patterns/pg_animated_noise/)
-
-<img src="images/pg_animated_texture.png" width="200" height="200" />
-
-[animated texture with noise](https://b2renger.github.io/p5js_patterns/pg_animated_texture/)
-
-<img src="images/pg_animated_texture_looping.png" width="200" height="200" />
-
-[animated texture with noise looping](https://b2renger.github.io/p5js_patterns/pg_animated_texture_looping/)
-
-<img src="images/gradient_animated.png" width="200" height="200" />
-
-[animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
-
-
 <br></br>
-<br></br>
+
+## Misc
+
+<img src="images/illusion_01.png" width="200" height="200" />
+
+[optical illusion 1](https://b2renger.github.io/p5js_patterns/illusion_01/)
 
 <img src="images/chladni_patterns.png" width="200" height="200" />
 
@@ -257,19 +254,9 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [chrysanthemum webgl](https://b2renger.github.io/p5js_patterns/chrysanthemum/)
 
-
-<br></br>
-<br></br>
-
-
 <img src="images/palmleaf_wireframe.png" width="200" height="200" />
 
 [palm leaf wireframe](https://b2renger.github.io/p5js_patterns/palm_leaf_wireframe/)
-
-
-<br></br>
-<br></br>
-
 
 <img src="images/webgl_3D.png" width="200" height="200" />
 
