@@ -4,6 +4,7 @@ experiments with p5js on pattern, generative and grid design
 <br></br>
 
 ## art-deco inspired patterns
+<br></br>
 
 <img src="images/artdeco_1.png" width="200" height="200" />
 
@@ -26,8 +27,10 @@ experiments with p5js on pattern, generative and grid design
 [Art deco - palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 
 <br></br>
+<br></br>
 
 ## Animated grids
+<br></br>
 
 <img src="images/rectangles2.png" width="200" height="200" />
 
@@ -70,8 +73,10 @@ experiments with p5js on pattern, generative and grid design
 [animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
 
 <br></br>
+<br></br>
 
 ## Grid things
+<br></br>
 
 <img src="images/rectangles1.png" width="200" height="200" />
 
@@ -112,6 +117,7 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/disarray_1.png" width="200" height="200" />
 
 ### Cubic Disarray inspired - (orignal work by Georg Nees)
+<br></br>
 
 [disarray 1](https://b2renger.github.io/p5js_patterns/disarray_1/)
 
@@ -122,9 +128,12 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/disarray_3.png" width="200" height="200" />
 
 [disarray 3](https://b2renger.github.io/p5js_patterns/disarray_3/)
+
+<br></br>
 <br></br>
 
 ### 10 print inspired - [10 print book](https://10print.org/)
+<br></br>
 
 <img src="images/10_print_1.png" width="200" height="200" />
 
@@ -141,8 +150,8 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/10_print_4.png" width="200" height="200" />
 
 [10 print 4](https://b2renger.github.io/p5js_patterns/10_print_4/)
-<br></br>
 
+<br></br>
 <br></br>
 
 ## Supperpositions
@@ -180,10 +189,11 @@ experiments with p5js on pattern, generative and grid design
 
 [blue rafters 3](https://b2renger.github.io/p5js_patterns/rafters_generative_3/index.html)
 
-
+<br></br>
 <br></br>
 
 ## Superposing grids
+<br></br>
 
 <img src="images/geometric_shape_pattern.png" width="200" height="200" />
 
@@ -197,10 +207,12 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/geometric_shape_pattern3.png" width="200" height="200" />
 
 [Geometric Shape Pattern 3](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_3/)
+
+<br></br>
 <br></br>
 
-
 ## Truchet inspired
+<br></br>
 
 <img src="images/pg_1.png" width="200" height="200" />
 
@@ -239,8 +251,10 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 [offscreen graphics with gradients](https://b2renger.github.io/p5js_patterns/pg_gradient/)
 
 <br></br>
+<br></br>
 
 ## Misc
+<br></br>
 
 <img src="images/illusion_01.png" width="200" height="200" />
 
@@ -261,6 +275,7 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/webgl_3D.png" width="200" height="200" />
 
 [grid of recursive cubes](https://b2renger.github.io/p5js_patterns/webgl_3D/)
+
 <br></br>
 <br></br>
 
