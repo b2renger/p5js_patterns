@@ -5,7 +5,23 @@ experiments with p5js on pattern, generative and grid design
 
 <img src="images/artdeco_1.png" width="200" height="200" />
 
-[Art deco 1](https://b2renger.github.io/p5js_patterns/art-deco_1/)
+[Art deco 1 ](https://b2renger.github.io/p5js_patterns/art-deco_1/)
+
+<img src="images/artdeco_2.png" width="200" height="200" />
+
+[Art deco 2 ](https://b2renger.github.io/p5js_patterns/art-deco_2/)
+
+<img src="images/rectangles6.png" width="200" height="200" />
+
+[Art deco - rectangles](https://b2renger.github.io/p5js_patterns/rectangles_6/)
+
+<img src="images/butterfly.png" width="200" height="200" />
+
+[Art deco - butterfly](https://b2renger.github.io/p5js_patterns/butterfly/)
+
+<img src="images/palmleaf.png" width="200" height="200" />
+
+[Art deco - palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 
 
 <img src="images/triangles_1.png" width="200" height="200" />
@@ -41,9 +57,7 @@ experiments with p5js on pattern, generative and grid design
 
 [rectangles 5](https://b2renger.github.io/p5js_patterns/rectangles_5/)
 
-<img src="images/rectangles6.png" width="200" height="200" />
 
-[rectangles 6](https://b2renger.github.io/p5js_patterns/rectangles_6/)
 <br></br>
 <br></br>
 
@@ -143,8 +157,6 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/superpositions_3.png" width="200" height="200" />
 
 [supperpositions 3](https://b2renger.github.io/p5js_patterns/supperpositions_3)
-<br></br>
-<br></br>
 
 <img src="images/superpositions_snowflakes_1.png" width="200" height="200" />
 
@@ -153,6 +165,23 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/superpositions_snowflakes_2.png" width="200" height="200" />
 
 [snowflakes 2](https://b2renger.github.io/p5js_patterns/supperpositions_snowflakes_2/)
+
+<img src="images/rafters.png" width="200" height="200" />
+
+[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/index.html)
+
+<img src="images/rafters2.png" width="200" height="200" />
+
+[blue rafters 2](https://b2renger.github.io/p5js_patterns/rafters_generative_2/index.html)
+
+<img src="images/rafters3.png" width="200" height="200" />
+
+[blue rafters 3](https://b2renger.github.io/p5js_patterns/rafters_generative_3/index.html)
+
+
+<br></br>
+<br></br>
+
 <br></br>
 <br></br>
 
@@ -217,8 +246,6 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 [animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
 
 
-
-
 <br></br>
 <br></br>
 
@@ -230,14 +257,6 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [chrysanthemum webgl](https://b2renger.github.io/p5js_patterns/chrysanthemum/)
 
-<img src="images/butterfly.png" width="200" height="200" />
-
-[butterfly](https://b2renger.github.io/p5js_patterns/butterfly/)
-
-<img src="images/rafters.png" width="200" height="200" />
-
-[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/index.html)
-
 
 <br></br>
 <br></br>
@@ -247,9 +266,7 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 
 [palm leaf wireframe](https://b2renger.github.io/p5js_patterns/palm_leaf_wireframe/)
 
-<img src="images/palmleaf.png" width="200" height="200" />
 
-[palm leaf](https://b2renger.github.io/p5js_patterns/palm_leaf/)
 <br></br>
 <br></br>
 
