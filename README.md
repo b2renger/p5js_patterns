@@ -114,10 +114,10 @@ experiments with p5js on pattern, generative and grid design
 
 [fun flowers overlapping](https://b2renger.github.io/p5js_patterns/fun_flowers_overlapping/)
 
-<img src="images/disarray_1.png" width="200" height="200" />
-
 ### Cubic Disarray inspired - (orignal work by Georg Nees)
 <br></br>
+
+<img src="images/disarray_1.png" width="200" height="200" />
 
 [disarray 1](https://b2renger.github.io/p5js_patterns/disarray_1/)
 
