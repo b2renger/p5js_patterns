@@ -189,6 +189,10 @@ experiments with p5js on pattern, generative and grid design
 
 [blue rafters 3](https://b2renger.github.io/p5js_patterns/rafters_generative_3/index.html)
 
+<img src="images/overlapping_circles.png" width="200" height="200" />
+
+[overlapping circles](https://b2renger.github.io/p5js_patterns/overlapping_circles_generative/index.html)
+
 <br></br>
 <br></br>
 
