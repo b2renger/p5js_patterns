@@ -193,13 +193,14 @@ experiments with p5js on pattern, generative and grid design
 
 [overlapping circles](https://b2renger.github.io/p5js_patterns/overlapping_circles_generative/index.html)
 
+<img src="images/radial-lines.png" width="200" height="200" />
+
 [radial-lines](https://b2renger.github.io/p5js_patterns/radial_lines/index.html)
 
-<img src="images/radial-lines.png" width="200" height="200" />
+<img src="images/radial-lines-with-proba.png" width="200" height="200" />
 
 [radial-lines with probabilities](https://b2renger.github.io/p5js_patterns/radial_lines_with_probabilities/index.html)
 
-<img src="images/radial-lines-with-prob.png" width="200" height="200" />
 
 <br></br>
 <br></br>
