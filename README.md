@@ -72,6 +72,10 @@ experiments with p5js on pattern, generative and grid design
 
 [animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
 
+<img src="images/typo_01.png" width="200" height="200" />
+
+[typographic grid (press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_01/)
+
 <br></br>
 <br></br>
 
