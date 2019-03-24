@@ -44,6 +44,9 @@ function mouseReleased() {
     step = random( 0.01, 0.5)
     prob = random(0, 0.75)
 
+    marginX = windowWidth - int((windowWidth / slotSize)) * slotSize;
+    marginY = windowHeight - int((windowHeight / slotSize)) * slotSize;
+
     console.log(seed, slotSize, step, prob)
 }
 

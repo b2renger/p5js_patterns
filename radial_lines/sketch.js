@@ -39,7 +39,8 @@ function mouseReleased() {
 
     slotSize = int(random(1, 9))* 20
     step = random( 0.05, 0.6)
-
+    marginX = windowWidth - int((windowWidth / slotSize)) * slotSize;
+    marginY = windowHeight - int((windowHeight / slotSize)) * slotSize;
 
     console.log(slotSize, step)
 
