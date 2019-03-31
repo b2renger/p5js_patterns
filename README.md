@@ -74,7 +74,11 @@ experiments with p5js on pattern, generative and grid design
 
 <img src="images/typo_01.png" width="200" height="200" />
 
-[typographic grid (press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_01/)
+[typographic grid polar coordinates(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_01/)
+
+<img src="images/typo_02.png" width="200" height="200" />
+
+[typographic grid 2 repetition translation and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_02_frise1_translation/)
 
 <br></br>
 <br></br>
