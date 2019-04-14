@@ -85,6 +85,10 @@ experiments with p5js on pattern, generative and grid design
 
 [typographic grid 2 repetition translation and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_02_frise1_translation/)
 
+<img src="images/typo_03.png" width="200" height="200" />
+
+[typographic grid 3 repetition refmexop, and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_03_frise2_reflexion/)
+
 <br></br>
 <br></br>
 
