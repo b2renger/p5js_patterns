@@ -77,17 +77,6 @@ experiments with p5js on pattern, generative and grid design
 
 [animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
 
-<img src="images/typo_01.png" width="200" height="200" />
-
-[typographic grid polar coordinates(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_01/)
-
-<img src="images/typo_02.png" width="200" height="200" />
-
-[typographic grid 2 repetition translation and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_02_frise1_translation/)
-
-<img src="images/typo_03.png" width="200" height="200" />
-
-[typographic grid 3 repetition refmexop, and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_03_frise2_reflexion/)
 
 <br></br>
 <br></br>
@@ -130,6 +119,23 @@ experiments with p5js on pattern, generative and grid design
 <img src="images/fun_flowers_overlapping.png" width="200" height="200" />
 
 [fun flowers overlapping](https://b2renger.github.io/p5js_patterns/fun_flowers_overlapping/)
+
+<img src="images/typo_01.png" width="200" height="200" />
+
+[typographic grid polar coordinates(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_01/)
+
+<img src="images/typo_02.png" width="200" height="200" />
+
+[typographic grid 2 repetition translation and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_02_frise1_translation/)
+
+<img src="images/typo_03.png" width="200" height="200" />
+
+[typographic grid 3 repetition refmexop, and rotation(press the key to change the character displayed)](https://b2renger.github.io/p5js_patterns/typo_03_frise2_reflexion/)
+
+
+<img src="images/arcs_01.png" width="200" height="200" />
+
+[arcs](https://b2renger.github.io/p5js_patterns/arcs_01/)
 
 ### Cubic Disarray inspired - (orignal work by Georg Nees)
 <br></br>
@@ -194,21 +200,8 @@ experiments with p5js on pattern, generative and grid design
 
 [snowflakes 2](https://b2renger.github.io/p5js_patterns/supperpositions_snowflakes_2/)
 
-<img src="images/rafters.png" width="200" height="200" />
 
-[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/index.html)
 
-<img src="images/rafters2.png" width="200" height="200" />
-
-[blue rafters 2](https://b2renger.github.io/p5js_patterns/rafters_generative_2/index.html)
-
-<img src="images/rafters3.png" width="200" height="200" />
-
-[blue rafters 3](https://b2renger.github.io/p5js_patterns/rafters_generative_3/index.html)
-
-<img src="images/overlapping_circles.png" width="200" height="200" />
-
-[overlapping circles](https://b2renger.github.io/p5js_patterns/overlapping_circles_generative/index.html)
 
 <img src="images/radial-lines.png" width="200" height="200" />
 
@@ -237,6 +230,22 @@ inspired by [Saskia Freeke](https://twitter.com/sasj_nl)'s work
 <img src="images/geometric_shape_pattern3.png" width="200" height="200" />
 
 [Geometric Shape Pattern 3](https://b2renger.github.io/p5js_patterns/geometric_shape_pattern_3/)
+
+<img src="images/rafters.png" width="200" height="200" />
+
+[blue rafters](https://b2renger.github.io/p5js_patterns/rafters_generative/index.html)
+
+<img src="images/rafters2.png" width="200" height="200" />
+
+[blue rafters 2](https://b2renger.github.io/p5js_patterns/rafters_generative_2/index.html)
+
+<img src="images/rafters3.png" width="200" height="200" />
+
+[blue rafters 3](https://b2renger.github.io/p5js_patterns/rafters_generative_3/index.html)
+
+<img src="images/overlapping_circles.png" width="200" height="200" />
+
+[overlapping circles](https://b2renger.github.io/p5js_patterns/overlapping_circles_generative/index.html)
 
 <br></br>
 <br></br>
