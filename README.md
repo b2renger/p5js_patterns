@@ -69,12 +69,15 @@ experiments with p5js on pattern, generative and grid design
 [animated texture with noise looping](https://b2renger.github.io/p5js_patterns/pg_animated_texture_looping/)
 
 <img src="images/noise.png" width="200" height="200" />
+
 [simplex noise dragonfly](https://b2renger.github.io/p5js_patterns/noise/)
 
 <img src="images/noise_01.png" width="200" height="200" />
+
 [symetrical radial noise](https://b2renger.github.io/p5js_patterns/noise_01/)
 
 <img src="images/gradient_animated.png" width="200" height="200" />
+
 [animated gradients](https://b2renger.github.io/p5js_patterns/gradient_animated/)
 
 
