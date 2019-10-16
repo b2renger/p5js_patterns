@@ -140,6 +140,16 @@ experiments with p5js on pattern, generative and grid design
 
 [arcs](https://b2renger.github.io/p5js_patterns/arcs_01/)
 
+
+<img src="images/lines_intersecting_from_sides_HV.png" width="200" height="200" />
+
+[lines intersecting horizontal and vertical](https://b2renger.github.io/p5js_patterns/lines_intersecting_from_sides_HV/)
+
+<img src="images/lines_intersecting_from_sides_random_angle.png" width="200" height="200" />
+
+[lines intersecting random angle](https://b2renger.github.io/p5js_patterns/lines_intersecting_from_sides_random_angle/)
+
+
 ### Cubic Disarray inspired - (orignal work by Georg Nees)
 <br></br>
 
